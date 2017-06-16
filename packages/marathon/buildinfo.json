@@ -6,5 +6,5 @@
     "sha1": "8bc00666df1825daf984ee945ec4fef1d72e3c5b"
   },
   "username": "dcos_marathon",
-  "state_directory": true
+  "state_directory": false
 }
