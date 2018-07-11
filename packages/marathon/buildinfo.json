@@ -3,7 +3,7 @@
   "single_source" : {
     "kind" : "url_extract",
     "url" : "https://s3.amazonaws.com/downloads.mesosphere.io/marathon/releases/1.5.11/marathon-1.5.11.tgz",
-    "sha1" : "122e204bf2052aea2b12550753325def89e94d70"
+    "sha1" : "61d4bb2c30740b021abbc7345c459cb4745f6771"
   },
   "username": "dcos_marathon",
   "state_directory": true
